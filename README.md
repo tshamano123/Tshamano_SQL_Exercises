@@ -1,2 +1,2 @@
-# Tshamano_SQL_Exercises
+# Databricks-Exercises
 SQL exercises for my studies
