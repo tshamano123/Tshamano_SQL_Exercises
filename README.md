@@ -1,2 +1,2 @@
 # Databricks-Exercises
-SQL exercises for my studies
+This repository is for SQL fundamentals exercises for my studies
